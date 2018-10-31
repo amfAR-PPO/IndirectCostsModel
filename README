@@ -1,3 +1,17 @@
-This repository contains both the model and the raw data set utilized for calculating the overheads estimates and scenarios for the paper "Calculating Indirect Costs from International PEPFAR Implementing Partners: Can Additional Efficiencies be Garnered?". Publication is forthcoming.
+This repository contains both the model and the raw data set utilized for calculating the overheads estimates and scenarios for the paper "Calculating Indirect Costs from International PEPFAR Implementing Partners: Can Additional Efficiencies be Garnered?". 
 
-This readme will be updated with the abstract once publication is finalized.
+Full text publication available here: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206425
+
+Abstract:
+
+Background
+UNAIDS estimates global HIV investment needs in low- and middle-income countries (LMICs) at $26 billion per year in 2020. Yet international financing for HIV programs has stagnated amidst despite the increasing number of people requiring and accessing treatment. Despite increased efficiencies in HIV service delivery, evaluating programs for greater efficiencies remains necessary. While HIV budgets have been under scrutiny in recent years, indirect costs have not been quantified for any major global HIV program, but may constitute an additional avenue to identify program efficiencies. This analysis presents a method for estimating indirect costs in the President’s Emergency Plan for AIDS Relief (PEPFAR).
+
+Methods
+Utilizing PEPFAR country operational plan (COP) funding data from 2007 to 2016 for international organizations (IOs) and universities and standard regulatory cost bases, we calculated modified total direct costs on which indirect cost rates may be applied by partner and funding agency. We then apply a series of plausible indirect cost rates (10%–36.28%) to develop a range for total indirect costs that have accrued over the period.
+
+Findings
+Of $37.01 billion in total COP funding between 2007 and 2016, $22.24 billion (60.08%) was identifiably allocated to IOs ($17.95B) and universities ($4.29B). After excluding funding for sub-awards ($1.92B) and other expenses ($3.89B) to which indirect rates cannot be applied, $16.44B remained in combined direct and indirect costs. From this, we estimate that between $1.85B (8.30% of total international partner funding) and $4.34B (19.51%) has been spent on indirect costs from 2007–2016, including $157-$369 million in 2016.
+
+Interpretation
+To our knowledge, this is the first analysis to quantify the indirect costs of major implementing partners of a global HIV funder. However, lack of transparency in the indirect cost rates of non-University international partners creates an opaque layer of programmatic costs. Given the current funding environment and evolution of HIV programming in PEPFAR countries, the findings motivate a re-examination of the current policies and the return on investment in indirect cost recovery across the PEPFAR program.
